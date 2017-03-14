@@ -12,7 +12,7 @@ public class AddressBook {
 		numfriends = 0;
     }
 	public void addContact(Contact c) {
-		fruebds[numfriends] = c;
+		friends[numfriends] = c;
 		numfriends++;
 	}
 	
